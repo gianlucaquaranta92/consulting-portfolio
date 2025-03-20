@@ -1,0 +1,800 @@
+[30-Jan-2025 12:52:34 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\topslots\wp-includes\class-wpdb.php on line 1982
+[30-Jan-2025 12:52:58 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\topslots\wp-includes\class-wpdb.php on line 1982
+[30-Jan-2025 12:53:55 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\topslots\wp-includes\class-wpdb.php on line 1982
+[30-Jan-2025 12:53:56 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\topslots\wp-includes\class-wpdb.php on line 1982
+[30-Jan-2025 13:18:26 UTC] PHP Deprecated:  File Theme without header.php is <strong>deprecated</strong> since version 3.0.0 with no alternative available. Please include a header.php template in your theme. in C:\xampp\htdocs\topslots\wp-includes\functions.php on line 6085
+[30-Jan-2025 13:18:27 UTC] PHP Deprecated:  File Theme without footer.php is <strong>deprecated</strong> since version 3.0.0 with no alternative available. Please include a footer.php template in your theme. in C:\xampp\htdocs\topslots\wp-includes\functions.php on line 6085
+[30-Jan-2025 13:18:54 UTC] PHP Deprecated:  File Theme without header.php is <strong>deprecated</strong> since version 3.0.0 with no alternative available. Please include a header.php template in your theme. in C:\xampp\htdocs\topslots\wp-includes\functions.php on line 6085
+[30-Jan-2025 13:18:54 UTC] PHP Deprecated:  File Theme without footer.php is <strong>deprecated</strong> since version 3.0.0 with no alternative available. Please include a footer.php template in your theme. in C:\xampp\htdocs\topslots\wp-includes\functions.php on line 6085
+[30-Jan-2025 13:19:04 UTC] PHP Deprecated:  File Theme without header.php is <strong>deprecated</strong> since version 3.0.0 with no alternative available. Please include a header.php template in your theme. in C:\xampp\htdocs\topslots\wp-includes\functions.php on line 6085
+[30-Jan-2025 13:58:27 UTC] Automatic updates starting...
+[30-Jan-2025 13:58:28 UTC]   Automatic plugin updates starting...
+[30-Jan-2025 13:58:28 UTC]   Automatic plugin updates complete.
+[30-Jan-2025 13:58:28 UTC]   Automatic theme updates starting...
+[30-Jan-2025 13:58:28 UTC]   Automatic theme updates complete.
+[30-Jan-2025 13:58:28 UTC] Automatic updates complete.
+[30-Jan-2025 21:34:16 UTC] PHP Warning:  wp_update_plugins(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\topslots\wp-includes\functions.php on line 6114
+[30-Jan-2025 21:34:16 UTC] PHP Warning:  wp_update_themes(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\topslots\wp-includes\functions.php on line 6114
+[31-Jan-2025 13:09:45 UTC] Automatic updates starting...
+[31-Jan-2025 13:09:46 UTC]   Automatic plugin updates starting...
+[31-Jan-2025 13:09:46 UTC]   Automatic plugin updates complete.
+[31-Jan-2025 13:09:47 UTC]   Automatic theme updates starting...
+[31-Jan-2025 13:09:47 UTC]   Automatic theme updates complete.
+[31-Jan-2025 13:09:47 UTC] Automatic updates complete.
+[31-Jan-2025 13:10:02 UTC] PHP Deprecated:  Function wp_update_https_detection_errors is <strong>deprecated</strong> since version 6.4.0 with no alternative available. in C:\xampp\htdocs\topslots\wp-includes\functions.php on line 6114
+[31-Jan-2025 13:58:20 UTC] Automatic updates starting...
+[31-Jan-2025 13:58:20 UTC]   Automatic plugin updates starting...
+[31-Jan-2025 13:58:20 UTC]   Automatic plugin updates complete.
+[31-Jan-2025 13:58:20 UTC]   Automatic theme updates starting...
+[31-Jan-2025 13:58:20 UTC]   Automatic theme updates complete.
+[31-Jan-2025 13:58:20 UTC] Automatic updates complete.
+[31-Jan-2025 14:00:12 UTC] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\topslots\wp-content\themes\topslots\header.php on line 11
+[31-Jan-2025 14:00:21 UTC] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\topslots\wp-content\themes\topslots\header.php on line 11
+[01-Feb-2025 11:34:52 UTC] Automatic updates starting...
+[01-Feb-2025 11:34:53 UTC]   Automatic plugin updates starting...
+[01-Feb-2025 11:34:53 UTC]   Automatic plugin updates complete.
+[01-Feb-2025 11:34:54 UTC]   Automatic theme updates starting...
+[01-Feb-2025 11:34:54 UTC]   Automatic theme updates complete.
+[01-Feb-2025 11:34:54 UTC] Automatic updates complete.
+[01-Feb-2025 19:20:18 UTC] Automatic updates starting...
+[01-Feb-2025 19:20:19 UTC]   Automatic plugin updates starting...
+[01-Feb-2025 19:20:19 UTC]   Automatic plugin updates complete.
+[01-Feb-2025 19:20:20 UTC]   Automatic theme updates starting...
+[01-Feb-2025 19:20:20 UTC]   Automatic theme updates complete.
+[01-Feb-2025 19:20:20 UTC] Automatic updates complete.
+[02-Feb-2025 11:39:29 UTC] Automatic updates starting...
+[02-Feb-2025 11:39:30 UTC]   Automatic plugin updates starting...
+[02-Feb-2025 11:39:30 UTC]   Automatic plugin updates complete.
+[02-Feb-2025 11:39:31 UTC]   Automatic theme updates starting...
+[02-Feb-2025 11:39:31 UTC]   Automatic theme updates complete.
+[02-Feb-2025 11:39:31 UTC] Automatic updates complete.
+[02-Feb-2025 13:58:33 UTC] Automatic updates starting...
+[02-Feb-2025 13:58:33 UTC]   Automatic plugin updates starting...
+[02-Feb-2025 13:58:33 UTC]   Automatic plugin updates complete.
+[02-Feb-2025 13:58:34 UTC]   Automatic theme updates starting...
+[02-Feb-2025 13:58:34 UTC]   Automatic theme updates complete.
+[02-Feb-2025 13:58:34 UTC] Automatic updates complete.
+[03-Feb-2025 11:12:03 UTC] Automatic updates starting...
+[03-Feb-2025 11:12:05 UTC]   Automatic plugin updates starting...
+[03-Feb-2025 11:12:05 UTC]   Automatic plugin updates complete.
+[03-Feb-2025 11:12:05 UTC]   Automatic theme updates starting...
+[03-Feb-2025 11:12:05 UTC]   Automatic theme updates complete.
+[03-Feb-2025 11:12:05 UTC] Automatic updates complete.
+[06-Feb-2025 20:55:56 UTC] Automatic updates starting...
+[06-Feb-2025 20:55:58 UTC]   Automatic plugin updates starting...
+[06-Feb-2025 20:55:58 UTC]   Automatic plugin updates complete.
+[06-Feb-2025 20:55:58 UTC]   Automatic theme updates starting...
+[06-Feb-2025 20:55:58 UTC]   Automatic theme updates complete.
+[06-Feb-2025 20:55:58 UTC] Automatic updates complete.
+[07-Feb-2025 10:58:45 UTC] Automatic updates starting...
+[07-Feb-2025 10:58:46 UTC]   Automatic plugin updates starting...
+[07-Feb-2025 10:58:46 UTC]   Automatic plugin updates complete.
+[07-Feb-2025 10:58:47 UTC] Automatic updates complete.
+[07-Feb-2025 21:14:13 UTC] PHP Deprecated:  Function wp_update_https_detection_errors is <strong>deprecated</strong> since version 6.4.0 with no alternative available. in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[07-Feb-2025 22:24:02 UTC] Automatic updates starting...
+[07-Feb-2025 22:24:04 UTC]   Automatic plugin updates starting...
+[07-Feb-2025 22:24:04 UTC]   Automatic plugin updates complete.
+[07-Feb-2025 22:24:04 UTC] Automatic updates complete.
+[09-Feb-2025 20:48:22 UTC] Automatic updates starting...
+[09-Feb-2025 20:48:23 UTC]   Automatic plugin updates starting...
+[09-Feb-2025 20:48:23 UTC]   Automatic plugin updates complete.
+[09-Feb-2025 20:48:23 UTC] Automatic updates complete.
+[09-Feb-2025 22:14:31 UTC] Automatic updates starting...
+[09-Feb-2025 22:14:32 UTC]   Automatic plugin updates starting...
+[09-Feb-2025 22:14:32 UTC]   Automatic plugin updates complete.
+[09-Feb-2025 22:14:32 UTC] Automatic updates complete.
+[10-Feb-2025 10:25:17 UTC] Automatic updates starting...
+[10-Feb-2025 10:25:18 UTC]   Automatic plugin updates starting...
+[10-Feb-2025 10:25:18 UTC]   Automatic plugin updates complete.
+[10-Feb-2025 10:25:18 UTC] Automatic updates complete.
+[10-Feb-2025 21:14:21 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:22 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:22 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:22 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:23 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:23 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:23 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:23 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:23 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:26 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:28 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:29 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:29 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:29 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:29 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:29 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:29 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:29 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:30 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:30 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:30 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:30 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:30 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:30 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:30 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:31 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:31 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:31 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:31 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:31 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:32 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:33 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:14:43 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:16:44 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:17:54 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:17:57 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:17:57 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:17:57 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:17:59 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:19:00 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:21:01 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:23:03 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:25:04 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:27:04 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:29:06 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:31:06 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:33:07 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:35:08 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 21:37:09 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must be strings. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[10-Feb-2025 22:14:51 UTC] Automatic updates starting...
+[10-Feb-2025 22:14:51 UTC]   Automatic plugin updates starting...
+[10-Feb-2025 22:14:51 UTC]   Automatic plugin updates complete.
+[10-Feb-2025 22:14:51 UTC] Automatic updates complete.
+[11-Feb-2025 07:28:07 UTC] PHP Warning:  wp_update_themes(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[11-Feb-2025 10:15:27 UTC] PHP Warning:  Attempt to read property "title" on null in C:\xampp\htdocs\cqxlux\wp-includes\class-wp-customize-widgets.php on line 923
+[11-Feb-2025 10:15:29 UTC] Automatic updates starting...
+[11-Feb-2025 10:15:30 UTC]   Automatic plugin updates starting...
+[11-Feb-2025 10:15:30 UTC]   Automatic plugin updates complete.
+[11-Feb-2025 10:15:31 UTC] Automatic updates complete.
+[11-Feb-2025 22:16:39 UTC] Automatic updates starting...
+[11-Feb-2025 22:16:40 UTC]   Automatic plugin updates starting...
+[11-Feb-2025 22:16:40 UTC]   Automatic plugin updates complete.
+[11-Feb-2025 22:16:40 UTC] Automatic updates complete.
+[12-Feb-2025 10:25:42 UTC] PHP Warning:  wp_version_check(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[12-Feb-2025 10:49:21 UTC] PHP Deprecated:  Function the_block_template_skip_link is <strong>deprecated</strong> since version 6.4.0! Use wp_enqueue_block_template_skip_link() instead. in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[12-Feb-2025 10:51:15 UTC] PHP Deprecated:  Function the_block_template_skip_link is <strong>deprecated</strong> since version 6.4.0! Use wp_enqueue_block_template_skip_link() instead. in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[12-Feb-2025 10:51:25 UTC] PHP Deprecated:  Function the_block_template_skip_link is <strong>deprecated</strong> since version 6.4.0! Use wp_enqueue_block_template_skip_link() instead. in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[12-Feb-2025 22:47:21 UTC] Automatic updates starting...
+[12-Feb-2025 22:47:23 UTC]   Automatic plugin updates starting...
+[12-Feb-2025 22:47:23 UTC]   Automatic plugin updates complete.
+[12-Feb-2025 22:47:24 UTC] Automatic updates complete.
+[13-Feb-2025 11:04:31 UTC] Automatic updates starting...
+[13-Feb-2025 11:04:32 UTC]   Automatic plugin updates starting...
+[13-Feb-2025 11:04:32 UTC]   Automatic plugin updates complete.
+[13-Feb-2025 11:04:32 UTC] Automatic updates complete.
+[15-Feb-2025 12:14:02 UTC] Automatic updates starting...
+[15-Feb-2025 12:14:04 UTC]   Automatic plugin updates starting...
+[15-Feb-2025 12:14:04 UTC]   Automatic plugin updates complete.
+[15-Feb-2025 12:14:04 UTC] Automatic updates complete.
+[17-Feb-2025 10:56:39 UTC] Automatic updates starting...
+[17-Feb-2025 10:56:40 UTC]   Automatic plugin updates starting...
+[17-Feb-2025 10:56:40 UTC]   Automatic plugin updates complete.
+[17-Feb-2025 10:56:41 UTC] Automatic updates complete.
+[21-Feb-2025 12:27:57 UTC] Automatic updates starting...
+[21-Feb-2025 12:27:59 UTC]   Automatic plugin updates starting...
+[21-Feb-2025 12:27:59 UTC]   Automatic plugin updates complete.
+[21-Feb-2025 12:27:59 UTC] Automatic updates complete.
+[22-Feb-2025 12:35:42 UTC] Automatic updates starting...
+[22-Feb-2025 12:35:44 UTC]   Automatic plugin updates starting...
+[22-Feb-2025 12:35:44 UTC]   Automatic plugin updates complete.
+[22-Feb-2025 12:35:44 UTC] Automatic updates complete.
+[22-Feb-2025 21:00:01 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\cqxlux\wp-includes\formatting.php:4467
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-includes\formatting.php(4467): ltrim(Array)
+#1 C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\hero-block.php(36): esc_url(Array)
+#2 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 11, Object(WP_Block), Array)
+#4 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 11, Object(WP_Block), Array)
+#7 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 11, Object(WP_Block), Array)
+#8 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 11, Object(WP_Block))
+#9 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#10 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#11 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#14 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1933): apply_filters('the_content', '<!-- wp:acf/her...')
+#15 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1018): WP_REST_Posts_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#16 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(1292): WP_REST_Posts_Controller->update_item(Object(WP_REST_Request))
+#17 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(1125): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#18 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#19 C:\xampp\htdocs\cqxlux\wp-includes\rest-api.php(449): WP_REST_Server->serve_request('/wp/v2/pages/11')
+#20 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#21 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#22 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#23 C:\xampp\htdocs\cqxlux\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#24 C:\xampp\htdocs\cqxlux\wp-includes\class-wp.php(813): WP->parse_request('')
+#25 C:\xampp\htdocs\cqxlux\wp-includes\functions.php(1336): WP->main('')
+#26 C:\xampp\htdocs\cqxlux\wp-blog-header.php(16): wp()
+#27 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#28 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-includes\formatting.php on line 4467
+[22-Feb-2025 21:00:06 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\xampp\htdocs\cqxlux\wp-includes\formatting.php:4467
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-includes\formatting.php(4467): ltrim(Array)
+#1 C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\hero-block.php(36): esc_url(Array)
+#2 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 11, Object(WP_Block), Array)
+#4 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 11, Object(WP_Block), Array)
+#7 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 11, Object(WP_Block), Array)
+#8 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 11, Object(WP_Block))
+#9 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#10 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#11 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#14 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1933): apply_filters('the_content', '<!-- wp:acf/her...')
+#15 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1018): WP_REST_Posts_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#16 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(1292): WP_REST_Posts_Controller->update_item(Object(WP_REST_Request))
+#17 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(1125): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#18 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#19 C:\xampp\htdocs\cqxlux\wp-includes\rest-api.php(449): WP_REST_Server->serve_request('/wp/v2/pages/11')
+#20 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#21 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#22 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#23 C:\xampp\htdocs\cqxlux\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#24 C:\xampp\htdocs\cqxlux\wp-includes\class-wp.php(813): WP->parse_request('')
+#25 C:\xampp\htdocs\cqxlux\wp-includes\functions.php(1336): WP->main('')
+#26 C:\xampp\htdocs\cqxlux\wp-blog-header.php(16): wp()
+#27 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#28 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-includes\formatting.php on line 4467
+[22-Feb-2025 22:03:16 UTC] PHP Warning:  Object of class WP_Post could not be converted to int in C:\xampp\htdocs\cqxlux\wp-includes\post.php on line 6832
+[22-Feb-2025 22:10:54 UTC] PHP Warning:  Object of class WP_Post could not be converted to int in C:\xampp\htdocs\cqxlux\wp-includes\post.php on line 6832
+[22-Feb-2025 22:11:04 UTC] PHP Warning:  Object of class WP_Post could not be converted to int in C:\xampp\htdocs\cqxlux\wp-includes\post.php on line 6832
+[22-Feb-2025 22:11:06 UTC] PHP Warning:  Object of class WP_Post could not be converted to int in C:\xampp\htdocs\cqxlux\wp-includes\post.php on line 6832
+[22-Feb-2025 22:11:47 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php:16
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 11, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 11, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 11, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 11, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1933): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1018): WP_REST_Posts_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#14 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(1292): WP_REST_Posts_Controller->update_item(Object(WP_REST_Request))
+#15 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(1125): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#16 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#17 C:\xampp\htdocs\cqxlux\wp-includes\rest-api.php(449): WP_REST_Server->serve_request('/wp/v2/pages/11')
+#18 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#19 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#20 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#21 C:\xampp\htdocs\cqxlux\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#22 C:\xampp\htdocs\cqxlux\wp-includes\class-wp.php(813): WP->parse_request('')
+#23 C:\xampp\htdocs\cqxlux\wp-includes\functions.php(1336): WP->main('')
+#24 C:\xampp\htdocs\cqxlux\wp-blog-header.php(16): wp()
+#25 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#26 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php on line 16
+[22-Feb-2025 22:11:50 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php:16
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 11, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 11, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 11, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 11, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\post-template.php(256): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\index.php(4): the_content()
+#14 C:\xampp\htdocs\cqxlux\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\cqxlux\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#17 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php on line 16
+[22-Feb-2025 22:11:52 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php:16
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 92, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 92, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 92, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 92, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-revisions-controller.php(632): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php(451): WP_REST_Revisions_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#14 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php(253): WP_REST_Autosaves_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#15 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(1292): WP_REST_Autosaves_Controller->create_item(Object(WP_REST_Request))
+#16 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(1125): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#17 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#18 C:\xampp\htdocs\cqxlux\wp-includes\rest-api.php(449): WP_REST_Server->serve_request('/wp/v2/pages/11...')
+#19 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#20 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#21 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#22 C:\xampp\htdocs\cqxlux\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#23 C:\xampp\htdocs\cqxlux\wp-includes\class-wp.php(813): WP->parse_request('')
+#24 C:\xampp\htdocs\cqxlux\wp-includes\functions.php(1336): WP->main('')
+#25 C:\xampp\htdocs\cqxlux\wp-blog-header.php(16): wp()
+#26 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#27 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php on line 16
+[22-Feb-2025 22:13:12 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php:16
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 11, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 11, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 11, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 11, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\post-template.php(256): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\index.php(4): the_content()
+#14 C:\xampp\htdocs\cqxlux\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\cqxlux\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#17 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php on line 16
+[22-Feb-2025 22:13:42 UTC] Automatic updates starting...
+[22-Feb-2025 22:13:43 UTC]   Automatic plugin updates starting...
+[22-Feb-2025 22:13:43 UTC]   Automatic plugin updates complete.
+[22-Feb-2025 22:13:44 UTC] Automatic updates complete.
+[22-Feb-2025 22:14:59 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php:16
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 11, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 11, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 11, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 11, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\post-template.php(256): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\index.php(4): the_content()
+#14 C:\xampp\htdocs\cqxlux\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\cqxlux\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#17 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php on line 16
+[22-Feb-2025 22:15:17 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php:16
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 11, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 11, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 11, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 11, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\post-template.php(256): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\index.php(4): the_content()
+#14 C:\xampp\htdocs\cqxlux\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\cqxlux\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#17 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php on line 16
+[22-Feb-2025 22:17:31 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php:19
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 11, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 11, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 11, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 11, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\post-template.php(256): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\index.php(4): the_content()
+#14 C:\xampp\htdocs\cqxlux\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\cqxlux\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#17 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php on line 19
+[22-Feb-2025 22:17:58 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php:19
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 11, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 11, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 11, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 11, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1933): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1018): WP_REST_Posts_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#14 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(1292): WP_REST_Posts_Controller->update_item(Object(WP_REST_Request))
+#15 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(1125): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#16 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#17 C:\xampp\htdocs\cqxlux\wp-includes\rest-api.php(449): WP_REST_Server->serve_request('/wp/v2/pages/11')
+#18 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#19 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#20 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#21 C:\xampp\htdocs\cqxlux\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#22 C:\xampp\htdocs\cqxlux\wp-includes\class-wp.php(813): WP->parse_request('')
+#23 C:\xampp\htdocs\cqxlux\wp-includes\functions.php(1336): WP->main('')
+#24 C:\xampp\htdocs\cqxlux\wp-blog-header.php(16): wp()
+#25 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#26 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php on line 19
+[22-Feb-2025 22:18:03 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php:19
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 11, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 11, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 11, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 11, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\post-template.php(256): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\index.php(4): the_content()
+#14 C:\xampp\htdocs\cqxlux\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\cqxlux\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#17 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php on line 19
+[22-Feb-2025 22:18:55 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php:19
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 92, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 92, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 92, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 92, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-revisions-controller.php(632): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php(451): WP_REST_Revisions_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#14 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php(253): WP_REST_Autosaves_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#15 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(1292): WP_REST_Autosaves_Controller->create_item(Object(WP_REST_Request))
+#16 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(1125): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#17 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#18 C:\xampp\htdocs\cqxlux\wp-includes\rest-api.php(449): WP_REST_Server->serve_request('/wp/v2/pages/11...')
+#19 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#20 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#21 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#22 C:\xampp\htdocs\cqxlux\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#23 C:\xampp\htdocs\cqxlux\wp-includes\class-wp.php(813): WP->parse_request('')
+#24 C:\xampp\htdocs\cqxlux\wp-includes\functions.php(1336): WP->main('')
+#25 C:\xampp\htdocs\cqxlux\wp-blog-header.php(16): wp()
+#26 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#27 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php on line 19
+[22-Feb-2025 22:23:01 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php:16
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 11, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 11, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 11, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 11, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\post-template.php(256): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\index.php(4): the_content()
+#14 C:\xampp\htdocs\cqxlux\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\cqxlux\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#17 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php on line 16
+[22-Feb-2025 22:32:32 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php:16
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 11, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 11, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 11, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 11, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\post-template.php(256): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\index.php(4): the_content()
+#14 C:\xampp\htdocs\cqxlux\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\cqxlux\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#17 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php on line 16
+[22-Feb-2025 22:33:38 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php:16
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 11, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 11, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 11, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 11, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\post-template.php(256): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\index.php(4): the_content()
+#14 C:\xampp\htdocs\cqxlux\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\cqxlux\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#17 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php on line 16
+[22-Feb-2025 22:34:02 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php:16
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 11, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 11, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 11, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 11, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\post-template.php(256): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\index.php(4): the_content()
+#14 C:\xampp\htdocs\cqxlux\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\cqxlux\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#17 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\services-block.php on line 16
+[23-Feb-2025 10:42:06 UTC] Automatic updates starting...
+[23-Feb-2025 10:42:07 UTC]   Automatic plugin updates starting...
+[23-Feb-2025 10:42:07 UTC]   Automatic plugin updates complete.
+[23-Feb-2025 10:42:07 UTC] Automatic updates complete.
+[23-Feb-2025 20:24:33 UTC] PHP Warning:  Object of class WP_Post could not be converted to int in C:\xampp\htdocs\cqxlux\wp-includes\post.php on line 6832
+[23-Feb-2025 20:24:33 UTC] PHP Warning:  Object of class WP_Post could not be converted to int in C:\xampp\htdocs\cqxlux\wp-includes\post.php on line 6832
+[23-Feb-2025 20:24:51 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\img-text-block.php:15
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 106, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 106, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 106, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 106, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-revisions-controller.php(632): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php(451): WP_REST_Revisions_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#14 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php(253): WP_REST_Autosaves_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#15 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(1292): WP_REST_Autosaves_Controller->create_item(Object(WP_REST_Request))
+#16 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(1125): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#17 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#18 C:\xampp\htdocs\cqxlux\wp-includes\rest-api.php(449): WP_REST_Server->serve_request('/wp/v2/pages/11...')
+#19 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#20 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#21 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#22 C:\xampp\htdocs\cqxlux\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#23 C:\xampp\htdocs\cqxlux\wp-includes\class-wp.php(813): WP->parse_request('')
+#24 C:\xampp\htdocs\cqxlux\wp-includes\functions.php(1336): WP->main('')
+#25 C:\xampp\htdocs\cqxlux\wp-blog-header.php(16): wp()
+#26 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#27 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\img-text-block.php on line 15
+[23-Feb-2025 20:25:49 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\img-text-block.php:15
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 11, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 11, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 11, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 11, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1933): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1018): WP_REST_Posts_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#14 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(1292): WP_REST_Posts_Controller->update_item(Object(WP_REST_Request))
+#15 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(1125): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#16 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#17 C:\xampp\htdocs\cqxlux\wp-includes\rest-api.php(449): WP_REST_Server->serve_request('/wp/v2/pages/11')
+#18 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#19 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#20 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#21 C:\xampp\htdocs\cqxlux\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#22 C:\xampp\htdocs\cqxlux\wp-includes\class-wp.php(813): WP->parse_request('')
+#23 C:\xampp\htdocs\cqxlux\wp-includes\functions.php(1336): WP->main('')
+#24 C:\xampp\htdocs\cqxlux\wp-blog-header.php(16): wp()
+#25 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#26 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\img-text-block.php on line 15
+[23-Feb-2025 20:25:51 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\img-text-block.php:15
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 11, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 11, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 11, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 11, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\post-template.php(256): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\index.php(4): the_content()
+#14 C:\xampp\htdocs\cqxlux\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\cqxlux\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#17 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\img-text-block.php on line 15
+[23-Feb-2025 20:25:51 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\img-text-block.php:15
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 106, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 106, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 106, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 106, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-revisions-controller.php(632): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php(451): WP_REST_Revisions_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#14 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php(253): WP_REST_Autosaves_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#15 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(1292): WP_REST_Autosaves_Controller->create_item(Object(WP_REST_Request))
+#16 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(1125): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#17 C:\xampp\htdocs\cqxlux\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#18 C:\xampp\htdocs\cqxlux\wp-includes\rest-api.php(449): WP_REST_Server->serve_request('/wp/v2/pages/11...')
+#19 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#20 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#21 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#22 C:\xampp\htdocs\cqxlux\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#23 C:\xampp\htdocs\cqxlux\wp-includes\class-wp.php(813): WP->parse_request('')
+#24 C:\xampp\htdocs\cqxlux\wp-includes\functions.php(1336): WP->main('')
+#25 C:\xampp\htdocs\cqxlux\wp-blog-header.php(16): wp()
+#26 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#27 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\img-text-block.php on line 15
+[23-Feb-2025 20:26:09 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\img-text-block.php:15
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 11, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 11, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 11, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 11, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\post-template.php(256): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\index.php(4): the_content()
+#14 C:\xampp\htdocs\cqxlux\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\cqxlux\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#17 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\img-text-block.php on line 15
+[23-Feb-2025 20:28:02 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\img-text-block.php:15
+Stack trace:
+#0 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(680): include()
+#1 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): acf_block_render_template(Array, '', false, 11, Object(WP_Block), Array)
+#2 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(654): do_action('acf_block_rende...', Array, '', false, 11, Object(WP_Block), Array)
+#5 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(571): acf_render_block(Array, '', false, 11, Object(WP_Block), Array)
+#6 C:\xampp\htdocs\cqxlux\wp-content\plugins\acf pro\pro\blocks.php(504): acf_rendered_block(Array, '', false, 11, Object(WP_Block))
+#7 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-block.php(537): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2191): WP_Block->render()
+#9 C:\xampp\htdocs\cqxlux\wp-includes\blocks.php(2243): render_block(Array)
+#10 C:\xampp\htdocs\cqxlux\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:acf/her...')
+#11 C:\xampp\htdocs\cqxlux\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:acf/her...', Array)
+#12 C:\xampp\htdocs\cqxlux\wp-includes\post-template.php(256): apply_filters('the_content', '<!-- wp:acf/her...')
+#13 C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\index.php(4): the_content()
+#14 C:\xampp\htdocs\cqxlux\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\cqxlux\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\cqxlux\index.php(17): require('C:\\xampp\\htdocs...')
+#17 {main}
+  thrown in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\img-text-block.php on line 15
+[24-Feb-2025 12:44:09 UTC] Automatic updates starting...
+[24-Feb-2025 12:44:11 UTC]   Automatic plugin updates starting...
+[24-Feb-2025 12:44:11 UTC]   Automatic plugin updates complete.
+[24-Feb-2025 12:44:12 UTC] Automatic updates complete.
+[25-Feb-2025 11:08:29 UTC] Automatic updates starting...
+[25-Feb-2025 11:08:30 UTC]   Automatic plugin updates starting...
+[25-Feb-2025 11:08:30 UTC]   Automatic plugin updates complete.
+[25-Feb-2025 11:08:30 UTC] Automatic updates complete.
+[25-Feb-2025 11:44:14 UTC] PHP Warning:  Object of class WP_Post could not be converted to int in C:\xampp\htdocs\cqxlux\wp-includes\post.php on line 6832
+[25-Feb-2025 11:44:14 UTC] PHP Warning:  Object of class WP_Post could not be converted to int in C:\xampp\htdocs\cqxlux\wp-includes\post.php on line 6832
+[25-Feb-2025 11:44:41 UTC] PHP Warning:  Object of class WP_Post could not be converted to int in C:\xampp\htdocs\cqxlux\wp-includes\post.php on line 6832
+[25-Feb-2025 11:44:41 UTC] PHP Warning:  Object of class WP_Post could not be converted to int in C:\xampp\htdocs\cqxlux\wp-includes\post.php on line 6832
+[25-Feb-2025 11:44:47 UTC] PHP Warning:  Undefined variable $cta_image in C:\xampp\htdocs\cqxlux\wp-content\themes\cqx\template-parts\blocks\cta-block.php on line 37
+[25-Feb-2025 11:44:47 UTC] PHP Deprecated:  ltrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\cqxlux\wp-includes\formatting.php on line 4467
+[26-Feb-2025 08:41:42 UTC] Automatic updates starting...
+[26-Feb-2025 08:41:43 UTC]   Automatic plugin updates starting...
+[26-Feb-2025 08:41:43 UTC]   Automatic plugin updates complete.
+[26-Feb-2025 08:41:44 UTC] Automatic updates complete.
+[26-Feb-2025 11:52:37 UTC] PHP Warning:  wp_version_check(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[26-Feb-2025 11:52:37 UTC] PHP Warning:  wp_update_plugins(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[26-Feb-2025 11:52:37 UTC] PHP Warning:  wp_update_themes(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\cqxlux\wp-includes\functions.php on line 6114
+[26-Feb-2025 13:39:07 UTC] PHP Warning:  Object of class WP_Post could not be converted to int in C:\xampp\htdocs\cqxlux\wp-includes\post.php on line 6832
+[26-Feb-2025 13:39:07 UTC] PHP Warning:  Object of class WP_Post could not be converted to int in C:\xampp\htdocs\cqxlux\wp-includes\post.php on line 6832
+[05-Mar-2025 19:27:19 UTC] Automatic updates starting...
+[05-Mar-2025 19:27:21 UTC]   Automatic plugin updates starting...
+[05-Mar-2025 19:27:21 UTC]   Automatic plugin updates complete.
+[05-Mar-2025 19:27:22 UTC] Automatic updates complete.
+[05-Mar-2025 23:44:25 UTC] Automatic updates starting...
+[05-Mar-2025 23:44:26 UTC]   Automatic plugin updates starting...
+[05-Mar-2025 23:44:26 UTC]   Automatic plugin updates complete.
+[05-Mar-2025 23:44:26 UTC] Automatic updates complete.
+[07-Mar-2025 08:47:12 UTC] Automatic updates starting...
+[07-Mar-2025 08:47:13 UTC]   Automatic plugin updates starting...
+[07-Mar-2025 08:47:13 UTC]   Automatic plugin updates complete.
+[07-Mar-2025 08:47:13 UTC] Automatic updates complete.
+[07-Mar-2025 19:59:59 UTC] Automatic updates starting...
+[07-Mar-2025 20:00:00 UTC]   Automatic plugin updates starting...
+[07-Mar-2025 20:00:00 UTC]   Automatic plugin updates complete.
+[07-Mar-2025 20:00:01 UTC] Automatic updates complete.
+[10-Mar-2025 08:43:50 UTC] Automatic updates starting...
+[10-Mar-2025 08:43:52 UTC]   Automatic plugin updates starting...
+[10-Mar-2025 08:43:52 UTC]   Automatic plugin updates complete.
+[10-Mar-2025 08:43:52 UTC] Automatic updates complete.
+[11-Mar-2025 20:55:17 UTC] Automatic updates starting...
+[11-Mar-2025 20:55:18 UTC]   Automatic plugin updates starting...
+[11-Mar-2025 20:55:18 UTC]   Automatic plugin updates complete.
+[11-Mar-2025 20:55:19 UTC] Automatic updates complete.
+[12-Mar-2025 13:43:13 UTC] Automatic updates starting...
+[12-Mar-2025 13:43:14 UTC]   Automatic plugin updates starting...
+[12-Mar-2025 13:43:14 UTC]   Automatic plugin updates complete.
+[12-Mar-2025 13:43:15 UTC] Automatic updates complete.
+[19-Mar-2025 19:13:42 UTC] Automatic updates starting...
+[19-Mar-2025 19:13:43 UTC]   Automatic plugin updates starting...
+[19-Mar-2025 19:13:43 UTC]   Automatic plugin updates complete.
+[19-Mar-2025 19:13:44 UTC] Automatic updates complete.

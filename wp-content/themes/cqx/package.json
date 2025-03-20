@@ -1,0 +1,19 @@
+{
+  "name": "cqx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "postcss assets/css/style.css -o dist/css/style.css --watch",
+    "build": "postcss assets/css/style.css -o dist/css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@splidejs/splide": "^4.1.4",
+    "@tailwindcss/cli": "^4.0.5",
+    "tailwindcss": "^4.0.5"
+  }
+}
