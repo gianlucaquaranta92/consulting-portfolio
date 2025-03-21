@@ -79,7 +79,7 @@ function register_acf_blocks() {
             'description'       => __('The main services block built for the home-page'),
             'render_template'   => 'template-parts/blocks/services-block.php', 
             'category'          => 'formatting',
-            'icon'              => 'dashicons-screenoptions',
+            'icon'              => 'screenoptions',
             'keywords'          => array('services', 'acf', 'block'),
             'supports'          => array('align' => true),
             'enqueue_assets'    => function() {
@@ -92,7 +92,7 @@ function register_acf_blocks() {
             'description'       => __('The main counters block built for the home-page'),
             'render_template'   => 'template-parts/blocks/counter-block.php', 
             'category'          => 'formatting',
-            'icon'              => 'dashicons-screenoptions',
+            'icon'              => 'screenoptions',
             'keywords'          => array('counters', 'acf', 'block'),
             'supports'          => array('align' => true),
             'enqueue_assets'    => function() {
@@ -105,7 +105,7 @@ function register_acf_blocks() {
             'description'       => __('The main img-text block built for the home-page'),
             'render_template'   => 'template-parts/blocks/img-text-block.php', 
             'category'          => 'formatting',
-            'icon'              => 'dashicons-screenoptions',
+            'icon'              => 'screenoptions',
             'keywords'          => array('img-text', 'acf', 'block'),
             'supports'          => array('align' => true),
             'enqueue_assets'    => function() {
@@ -118,7 +118,7 @@ function register_acf_blocks() {
             'description'       => __('The main img-text block built for the home-page'),
             'render_template'   => 'template-parts/blocks/text-columns-block.php', 
             'category'          => 'formatting',
-            'icon'              => 'dashicons-screenoptions',
+            'icon'              => 'screenoptions',
             'keywords'          => array('img-text', 'acf', 'block'),
             'supports'          => array('align' => true),
             'enqueue_assets'    => function() {
@@ -131,7 +131,7 @@ function register_acf_blocks() {
             'description'       => __('The main img-text block built for the home-page'),
             'render_template'   => 'template-parts/blocks/clients-slider-block.php', 
             'category'          => 'formatting',
-            'icon'              => 'dashicons-screenoptions',
+            'icon'              => 'screenoptions',
             'keywords'          => array('img-text', 'acf', 'block'),
             'supports'          => array('align' => true),
             'enqueue_assets'    => function() {
@@ -144,11 +144,24 @@ function register_acf_blocks() {
             'description'       => __('The Call to action block with you in the background.'),
             'render_template'   => 'template-parts/blocks/cta-block.php', 
             'category'          => 'formatting',
-            'icon'              => 'dashicons-screenoptions',
+            'icon'              => 'screenoptions',
             'keywords'          => array('img-text', 'acf', 'block'),
             'supports'          => array('align' => true),
             'enqueue_assets'    => function() {
                 wp_enqueue_style('cta-block-style', get_template_directory_uri() . '/assets/css/hero-block.css');
+            }
+        ));
+        acf_register_block_type(array(
+            'name'              => 'about-me-block',
+            'title'             => __('About me block'),
+            'description'       => __('about me block.'),
+            'render_template'   => 'template-parts/blocks/about-me-block.php', 
+            'category'          => 'formatting',
+            'icon'              => 'screenoptions',
+            'keywords'          => array('img-text', 'acf', 'block'),
+            'supports'          => array('align' => true),
+            'enqueue_assets'    => function() {
+                wp_enqueue_style('about-me-block-style', get_template_directory_uri() . '/assets/css/hero-block.css');
             }
         ));
     }
