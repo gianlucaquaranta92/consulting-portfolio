@@ -40,11 +40,24 @@ html {
   margin-top: 0 !important;
 }
  
+
+.round-gradient {
+  background-color: /*#5bd1ff*/#bdd8ff;
+  filter: blur(150px);
+  border-radius: 50%;
+  width: 20rem;
+  height: 20rem;
+  display: block;
+  position: absolute;
+  inset: -15% auto auto 15%;
+}
+
+
+
 .hero-section {
-  /*background: linear-gradient(0deg, rgba(231,240,255,1) 0%, rgba(255,255,255,1) 70%);*/
-  overflow: hidden;
+  background: linear-gradient(0deg, rgba(231,240,255,1) 0%, rgba(255,255,255,1) 70%);
   position: relative;
-  height: 600px;
+  height: 700px;
 
   .bg-hero-img {
     height: 550px;
@@ -114,7 +127,7 @@ html {
 }
 
 .counter {
-  color: var(--color-primary);
+  color: #2b4fa3;
   font-weight: bold;
   font-size: 72px;
   display: flex;

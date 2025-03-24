@@ -8,11 +8,13 @@ $hero_button_text = !empty(get_field('hero_button_text')) ? get_field('hero_butt
 $hero_image = !empty(get_field('hero_image')) ? get_field('hero_image') : '';
 ?>
 
-<section class="hero-section bg-light-gray">
-    <div class="page-width h-full">
+<section class="hero-section bg-light-gray relative">
+
+    <div class="page-width h-full relative">
+        <div class="round-gradient"> </div>
         <div class="flex flex-row items-center h-full">
             <div>
-                <div class="flex flex-col grow max-w-[90%]">
+                <div class="flex flex-col grow max-w-[90%] relative">
                     <?php if ($hero_subheading): ?>
                         <h4 class="text-primary font-bold"><?php echo esc_html($hero_subheading); ?></h4>
                     <?php endif; ?>
@@ -36,7 +38,7 @@ $hero_image = !empty(get_field('hero_image')) ? get_field('hero_image') : '';
                 <div class="bg-hero-img"></div>
              
                 <?php if ($hero_image): ?>
-                    <img class="absolute top-0 scale-110" src="<?php echo esc_url($hero_image); ?>" alt="Hero Image">
+                    <img class="absolute top-auto scale-110" src="<?php echo esc_url($hero_image); ?>" alt="Hero Image">
                 <?php endif; ?>
           
             </div>

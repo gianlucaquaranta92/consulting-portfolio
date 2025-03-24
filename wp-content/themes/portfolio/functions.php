@@ -164,6 +164,20 @@ function register_acf_blocks() {
                 wp_enqueue_style('about-me-block-style', get_template_directory_uri() . '/assets/css/hero-block.css');
             }
         ));
+
+        acf_register_block_type(array(
+            'name'              => 'projects-block',
+            'title'             => __('Projects block'),
+            'description'       => __('Projects block.'),
+            'render_template'   => 'template-parts/blocks/projects-block.php', 
+            'category'          => 'formatting',
+            'icon'              => 'screenoptions',
+            'keywords'          => array('img-text', 'acf', 'block'),
+            'supports'          => array('align' => true),
+            'enqueue_assets'    => function() {
+                wp_enqueue_style('projects-block-style', get_template_directory_uri() . '/assets/css/hero-block.css');
+            }
+        ));
     }
 }
 
