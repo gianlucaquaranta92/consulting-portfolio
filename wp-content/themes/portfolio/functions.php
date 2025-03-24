@@ -193,6 +193,11 @@ if (function_exists('acf_add_options_page')) {
     ]);
 }
 
+// Enqueue the icomoon 
+function enqueue_custom_icons() {
+    wp_enqueue_style('icomoon-style', get_template_directory_uri() . '/assets/fonts/style.css');
+}
+add_action('wp_enqueue_scripts', 'enqueue_custom_icons');
 
 
 // Splide

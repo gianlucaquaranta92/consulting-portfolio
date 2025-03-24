@@ -14,10 +14,12 @@
                             <?php if ($service_image): ?>
                                 <img class="rounded-sm group-hover:scale-105 duration-300 z-[-1] w-full h-full top-0 left-0 absolute object-cover" src="<?php echo esc_url($service_image); ?>" alt="<?php echo esc_attr($service_title); ?>">
                             <?php else: ?>
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/icons/building-exterior.webp" alt="project-image">
+                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/building-exterior.webp" alt="project-image">
                             <?php endif; ?>
-                            <p class="text-white font-bold text-5xl z-10 group-hover:translate-y-[-20%] translate-y-[100%] group-hover:text-secondary duration-300"><?php echo esc_html($service_title); ?></p>
-                            <p class="text-white z-10 text-xl  group-hover:translate-y-[-80%] translate-y-[220%] font-bold duration-300">Read more</p>
+                            <p class="text-white font-bold text-4xl z-10 group-hover:translate-y-[-20%] translate-y-[100%] group-hover:text-secondary duration-300"><?php echo esc_html($service_title); ?></p>
+                           <div class="flex flex-row gap-2">
+                                <p class="text-white z-10 text-xl  group-hover:translate-y-[-80%] translate-y-[220%] font-bold duration-300">Read more  <i class="icon-chevron-right text-[17px]  text-white ml-3"></i></p>
+                              </div>
                         </a>
                     <?php endforeach; ?>
                 <?php endif; ?>
