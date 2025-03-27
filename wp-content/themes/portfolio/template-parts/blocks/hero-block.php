@@ -25,14 +25,19 @@ $hero_image = !empty(get_field('hero_image')) ? get_field('hero_image') : '';
                         <div class="text-xl mt-6"><?php echo esc_html($hero_description); ?></div>
                     <?php endif; ?>
             
-                </div>
+                </div>  
+                <div class="flex flex-row gap-4">
                 <?php if (!empty($hero_button_url) && !empty($hero_button_text)): ?>
-                    <div>
+                  
                         <a class="button w-max mt-12" href="<?php echo esc_url($hero_button_url); ?>">
-                            <?php echo esc_html($hero_button_text); ?>
+                        <span></span><?php echo esc_html($hero_button_text); ?>
                         </a>
-                    </div>
+                  
                 <?php endif; ?>
+                        <a class="button w-max mt-12 outlined" href="<?php echo esc_url($hero_button_url); ?>">
+                        <span></span>See my work 
+                        </a>
+                </div>
             </div>
             <div class="flex justify-end grow">
                 <div class="bg-hero-img"></div>

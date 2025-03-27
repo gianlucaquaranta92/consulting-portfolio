@@ -54,5 +54,55 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
 
+  document.addEventListener("DOMContentLoaded", function () {
+    const buttons = document.querySelectorAll(".button");
+
+    buttons.forEach(button => {
+        let lastX = 0, lastY = 0; // Store the last known position
+
+        button.addEventListener("mouseenter", function (e) {
+            const span = this.querySelector("span");
+            const rect = this.getBoundingClientRect();
+            
+            // Get the mouse position relative to the button
+            lastX = e.clientX - rect.left;
+            lastY = e.clientY - rect.top;
+
+            // Position the span at mouse entry
+            span.style.top = `${lastY}px`;
+            span.style.left = `${lastX}px`;
+            span.style.transform = "translate(-50%, -50%)"; 
+
+            // Calculate expansion size dynamically
+            const maxDim = Math.max(rect.width, rect.height) * 2.5;
+            span.style.width = `${maxDim}px`; 
+            span.style.height = `${maxDim}px`;
+        });
+
+        button.addEventListener("mousemove", function (e) {
+            // Track the last position before the mouse leaves
+            const rect = this.getBoundingClientRect();
+            lastX = e.clientX - rect.left;
+            lastY = e.clientY - rect.top;
+        });
+
+        button.addEventListener("mouseleave", function () {
+            const span = this.querySelector("span");
+
+            // Use the last known mouse position before leaving
+            span.style.top = `${lastY}px`;
+            span.style.left = `${lastX}px`;
+            span.style.transform = "translate(-50%, -50%)"; 
+
+            // Shrink the ripple from the last hover position
+            span.style.width = "0"; 
+            span.style.height = "0";
+        });
+    });
+});
+
+
+
+
 
   
