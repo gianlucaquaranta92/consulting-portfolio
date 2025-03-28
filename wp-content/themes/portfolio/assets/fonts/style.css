@@ -1,11 +1,13 @@
+
+
 @font-face {
   font-family: 'icomoon';
-    src:  url('/portfolio/wp-content/themes/portfolio/assets/fonts/icomoon.eot?xjanpj');
-    src:  url('/portfolio/wp-content/themes/portfolio/assets/fonts/icomoon.eot?xjanpj#iefix') format('embedded-opentype'),
-    url('/portfolio/wp-content/themes/portfolio/assets/fonts/icomoon.ttf?xjanpj') format('truetype'),
-    url('/portfolio/wp-content/themes/portfolio/assets/fonts/icomoon.woff?xjanpj') format('woff'),
-    url('/portfolio/wp-content/themes/portfolio/assets/fonts/icomoon.svg?xjanpj#icomoon') format('svg');
-    font-weight: normal;
+  src:  url('/portfolio/wp-content/themes/portfolio/assets/fonts/icomoon.eot?648glx');
+  src:  url('/portfolio/wp-content/themes/portfolio/assets/fonts/icomoon.eot?648glx#iefix') format('embedded-opentype'),
+    url('/portfolio/wp-content/themes/portfolio/assets/fonts/icomoon.ttf?648glx') format('truetype'),
+    url('/portfolio/wp-content/themes/portfolio/assets/fonts/icomoon.woff?648glx') format('woff'),
+    url('/portfolio/wp-content/themes/portfolio/assets/fonts/icomoon.svg?648glx#icomoon') format('svg');
+  font-weight: normal;
   font-style: normal;
   font-display: block;
 }
@@ -43,4 +45,11 @@
 
 .icon-arrow-up-right:before {
   content: "\ea3b";
+}
+
+.icon-github:before {
+  content: "\eab0";
+}
+.icon-linkedin:before {
+  content: "\eac9";
 }
