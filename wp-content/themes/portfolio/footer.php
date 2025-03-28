@@ -6,10 +6,11 @@ $contact_phone = get_field('contact_phone', 'option');
 $contact_email = get_field('contact_mail', 'option');
 ?>
 
-<footer class="bg-black text-white p-16 group">
-    
+<footer class="bg-black text-white p-16 group overflow-hidden">
 
-    <div class="page-width">
+    <div class="page-width relative">
+      <div style="inset: -85% auto auto 0%; background:#7ab0ff " class="round-gradient"> </div>
+      <div style="inset: 80% auto auto 84%; background:#7ab0ff" class="round-gradient"> </div>
         <div class="footer-columns flex gap-4 justify-between flex-row pb-8">
           <div class="w-full text-center">
             <div class="uppercase text-2xl">Need a developer?</div>
@@ -23,13 +24,7 @@ $contact_email = get_field('contact_mail', 'option');
                     <img class="max-w-[200px]" src="<?php echo esc_url($footer_logo); ?>" alt="Footer Logo">
                   </div>
                 <?php endif; ?>
-               
-
-        
         </div>
-
-    
-
         <!-- Footer Copyright Section -->
         <div class="border-primary border-t-2 bg-black pt-8">
           
@@ -53,8 +48,8 @@ $contact_email = get_field('contact_mail', 'option');
                   
                   </div>
                   <div class="flex flex-row gap-4 ">
-                    <a href="#" class="icon-linkedin text-3xl duration-300 hover:text-secondary text-white"></a>
-                    <a href="#" class="icon-github text-3xl duration-300 hover:text-secondary text-white"></a>
+                    <a href="#" class="z-10 icon-linkedin text-3xl duration-300 hover:text-secondary text-white"></a>
+                    <a href="#" class="z-10 icon-github text-3xl duration-300 hover:text-secondary text-white"></a>
                   </div>
                 </div>
               
