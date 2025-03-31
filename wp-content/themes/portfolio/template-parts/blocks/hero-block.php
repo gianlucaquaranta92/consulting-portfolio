@@ -8,10 +8,11 @@ $hero_button_text = !empty(get_field('hero_button_text')) ? get_field('hero_butt
 $hero_image = !empty(get_field('hero_image')) ? get_field('hero_image') : '';
 ?>
 
-<section class="hero-section bg-light-gray relative">
+<section class="hero-section bg-black relative">
 
     <div class="page-width h-full relative">
         <div class="round-gradient"> </div>
+        <div class="round-gradient two"> </div>
         <div class="flex flex-row items-center h-full">
             <div>
                 <div class="flex flex-col grow max-w-[90%] relative">
@@ -19,7 +20,7 @@ $hero_image = !empty(get_field('hero_image')) ? get_field('hero_image') : '';
                         <h4 class="text-primary font-bold"><?php echo esc_html($hero_subheading); ?></h4>
                     <?php endif; ?>
                     <?php if ($hero_heading): ?>
-                        <h1><?php echo esc_html($hero_heading); ?></h1>
+                        <h1>Gianluca—Building <span class="text-accent">Powerful</span> Web Experiences</h1>
                     <?php endif; ?>
                     <?php if ($hero_description): ?>
                         <div class="text-xl mt-6"><?php echo esc_html($hero_description); ?></div>

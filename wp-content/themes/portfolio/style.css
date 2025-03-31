@@ -42,30 +42,34 @@ html {
  
 
 .round-gradient {
-  background-color: /*#5bd1ff*/#bdd8ff;
+  background-color: /*#5bd1ff*/ #a0fffb;
   filter: blur(150px);
   border-radius: 50%;
   width: 20rem;
   height: 20rem;
-  display: none;
   position: absolute;
-  inset: -15% auto auto 15%;
+  inset: -59% auto auto -6%;
+
+}
+.round-gradient.two {
+  inset: 75% auto auto 75%;
 }
 
 
 
 .hero-section {
-  background: linear-gradient(0deg, #f1f6ff 0%, rgba(255,255,255,1) 70%);
   position: relative;
   height: 700px;
 
   .bg-hero-img {
-    height: 590px;
+    height: 589px;
     width: 638px;
     background: #c1e8ff;
     border-radius: 100%;
     transform: translate(3%, 6.5%);
     position: relative;
+
+    }
   }
 
   
@@ -93,7 +97,7 @@ html {
     }
   }
 
-}
+
 
 .icon {
   max-width: 50px;
@@ -129,7 +133,7 @@ html {
   color: white;
   cursor: pointer;
   overflow: hidden;
-  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+  transition:  0.3s ease-in-out;
   z-index: 1; /* Ensures the button stays on top */
 
   &:hover {
@@ -174,7 +178,7 @@ html {
 
 .counter {
   line-height: 1;
-  color: #2b4fa3;
+  color: var(--color-primary);
   font-weight: bold;
   font-size: 72px;
   display: flex;
@@ -186,11 +190,11 @@ html {
 body {
     font-family: "Roboto", sans-serif;
     font-size: 18px;
-    color: #333;
+    color: white;
   }
 
   p{
-    color: #696969;
+    color: #efefef;
     line-height: 185%;
     letter-spacing: .05em;
   }
@@ -235,6 +239,7 @@ footer {
 
 section {
     padding: 6rem 4rem ;
+    background: black;
 }
 .page-width {
   margin: 0 auto;
@@ -296,7 +301,7 @@ section {
   
       a {
         text-decoration: none;
-        color: #333;
+        color: #ffffff;
         padding: 1rem;
         display: block;
         font-size: 16px;

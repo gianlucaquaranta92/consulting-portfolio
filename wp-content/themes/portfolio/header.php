@@ -13,11 +13,11 @@
     <?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
-<header >
+<header class="bg-black">
     <div class="flex justify-between items-center w-full px-16 max-w-[1570px] mx-auto ">
         <a href="/cqxlux" class="logo" >
           
-            <div class="text-4xl font-bold">GQ</div>
+            <div class="text-4xl font-bold z-10 relative">GQ</div>
         </a>
         <div class="flex flex-row justify-between items-center gap-8">
             <?php
