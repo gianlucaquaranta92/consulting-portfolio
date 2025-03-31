@@ -47,7 +47,7 @@ html {
   border-radius: 50%;
   width: 20rem;
   height: 20rem;
-  display: block;
+  display: none;
   position: absolute;
   inset: -15% auto auto 15%;
 }
@@ -55,16 +55,16 @@ html {
 
 
 .hero-section {
-  background: linear-gradient(0deg, rgba(231,240,255,1) 0%, rgba(255,255,255,1) 70%);
+  background: linear-gradient(0deg, #f1f6ff 0%, rgba(255,255,255,1) 70%);
   position: relative;
   height: 700px;
 
   .bg-hero-img {
-    height: 550px;
-    width: 550px;
+    height: 590px;
+    width: 638px;
     background: #c1e8ff;
     border-radius: 100%;
-    transform: translate(10%, 20%);
+    transform: translate(3%, 6.5%);
     position: relative;
   }
 

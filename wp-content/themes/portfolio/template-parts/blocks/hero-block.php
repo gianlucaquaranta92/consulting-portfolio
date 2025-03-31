@@ -43,7 +43,7 @@ $hero_image = !empty(get_field('hero_image')) ? get_field('hero_image') : '';
                 <div class="bg-hero-img"></div>
              
                 <?php if ($hero_image): ?>
-                    <img class="absolute top-auto scale-110" src="<?php echo esc_url($hero_image); ?>" alt="Hero Image">
+                    <img class="absolute top-auto scale-110 rounded-full" src="<?php echo esc_url($hero_image); ?>" alt="Hero Image">
                 <?php endif; ?>
           
             </div>

@@ -14,7 +14,7 @@ $contact_email = get_field('contact_mail', 'option');
         <div class="footer-columns flex gap-4 justify-between flex-row pb-8">
           <div class="w-full text-center">
             <div class="uppercase text-2xl">Need a developer?</div>
-            <h2 style="font-size: 78px" class="group-hover:text-secondary duration-300 font-bold">Let`s work together!</h2>
+            <h2 style="font-size: 78px" class="group-hover:text-accent duration-300 font-bold">Let`s work together!</h2>
           </div>
 
             <!-- Column 1: Logo, Heading, and Opening Hours -->
@@ -35,21 +35,21 @@ $contact_email = get_field('contact_mail', 'option');
                     <?php if (!empty($contact_phone)) : ?>
                       <div class="flex flex-row gap-4 items-center">
                         <i class="icon-phone opacity-70 text-white"></i>
-                        <a class="hover:text-secondary  duration-300 font-bold" href="tel:<?php echo esc_attr($contact_phone); ?>"><?php echo esc_attr($contact_phone); ?></a>
+                        <a class="hover:text-accent  duration-300 font-bold" href="tel:<?php echo esc_attr($contact_phone); ?>"><?php echo esc_attr($contact_phone); ?></a>
                       </div>
                     <?php endif; ?>
                     
                     <?php if (!empty($contact_email)) : ?>
                       <div class="flex flex-row gap-4 items-center">
                         <i class="icon-mail opacity-70 text-white"></i>
-                        <a class="hover:text-secondary duration-300  text-white" href="mailto:<?php echo esc_attr($contact_email); ?>"><?php echo esc_html($contact_email); ?></a>
+                        <a class="hover:text-accent duration-300  text-white" href="mailto:<?php echo esc_attr($contact_email); ?>"><?php echo esc_html($contact_email); ?></a>
                       </div>
                     <?php endif; ?>
                   
                   </div>
                   <div class="flex flex-row gap-4 ">
-                    <a href="#" class="z-10 icon-linkedin text-3xl duration-300 hover:text-secondary text-white"></a>
-                    <a href="#" class="z-10 icon-github text-3xl duration-300 hover:text-secondary text-white"></a>
+                    <a href="#" class="z-10 icon-linkedin text-3xl duration-300 hover:text-accent text-white"></a>
+                    <a href="#" class="z-10 icon-github text-3xl duration-300 hover:text-accent text-white"></a>
                   </div>
                 </div>
               

@@ -5,9 +5,9 @@ $button_text = get_field('counter_button_text');
 ?>
 
 
-<section style="padding-top:0; padding-bottom:0" class="mt-0 ">
-    <div class="page-width relative top-[-4rem] bg-white">
-        <div class="shadow-lg rounded-sm p-16 z-0 relative">
+<section style="padding-top:0; padding-bottom:0" class=" bg-light-gray mt-0 ">
+    <div class="page-width relative">
+        <div class=" p-16 z-0 relative">
         <div class="flex justify-around flex-col gap-16">
         
         <div class="flex flex-row gap-8 justify-between items-center">

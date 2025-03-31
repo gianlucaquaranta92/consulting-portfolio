@@ -193,6 +193,20 @@ function register_acf_blocks() {
                 wp_enqueue_style('portfolio-block-style', get_template_directory_uri() . '/assets/css/hero-block.css');
             }
         ));
+
+        acf_register_block_type(array(
+            'name'              => 'three-columns-text',
+            'title'             => __('Three columns text block'),
+            'description'       => __('Three columns text block.'),
+            'render_template'   => 'template-parts/blocks/three-columns-text.php', 
+            'category'          => 'formatting',
+            'icon'              => 'screenoptions',
+            'keywords'          => array('img-text', 'acf', 'block'),
+            'supports'          => array('align' => true),
+            'enqueue_assets'    => function() {
+                wp_enqueue_style('three-columns-text-style', get_template_directory_uri() . '/assets/css/hero-block.css');
+            }
+        ));
     }
 }
 
