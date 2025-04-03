@@ -11,14 +11,14 @@ if ($text_columns): ?>
             <?php if ($text_columns_title): ?>
                 <h2 class="text-center"><?php echo esc_html($text_columns_title); ?></h2>
             <?php endif; ?>
-            <div class="flex flex-row flex-wrap gap-8 mt-16">
+            <div class="flex flex-row  gap-8 mt-16">
                 <?php foreach ($text_columns as $column): 
                     $column_title = $column['single_column_title'] ?? '';
                     $column_description = $column['single_column_description'] ?? '';
                 ?>
-                    <div class="flex flex-col grow max-w-[48%]">
+                    <div class="flex flex-col grow max-w-[33%] rounded-r-md bg">
                         <?php if ($column_title): ?>
-                            <h3><?php echo esc_html($column_title); ?></h3>
+                            <h4><?php echo esc_html($column_title); ?></h4>
                         <?php endif; ?>
                         <?php if ($column_description): ?>
                             <p><?php echo esc_html($column_description); ?></p>

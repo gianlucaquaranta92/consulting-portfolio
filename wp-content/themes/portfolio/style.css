@@ -188,15 +188,17 @@ html {
 
 
 body {
-    font-family: "Roboto", sans-serif;
+   
     font-size: 18px;
     color: white;
+    font-family: "Montserrat", sans-serif;
   }
 
   p{
-    color: #efefef;
+    color: #c4c7c5;
     line-height: 185%;
     letter-spacing: .05em;
+    font-weight: 500;
   }
   
   h1, h2, h3 , h4 {
@@ -249,7 +251,7 @@ section {
 
 
 .single-projects {
-  background-color: white;
+
   &:nth-child(even) {
     .phone-screen{
       right: -45px;
@@ -259,15 +261,17 @@ section {
 
   &:nth-child(odd) {
 
-    background-color: var(--color-light-gray);
+    /*background-color: var(--color-light-gray);*/
+
     .project-content{
     flex-direction: row-reverse !important;
   }
+
   .phone-screen{
     left: -45px;
   }
 
-}
+}*/
 }
 
 /* Navigation styling*/
