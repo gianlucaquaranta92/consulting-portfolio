@@ -114,8 +114,8 @@ html {
 }
 
 .button {
-  --btn-color: var(--color-primary);
-  --btn-color-dark: var(--color-secondary);
+  --btn-color: var(--color-secondary);
+  --btn-color-dark: var(--color-primary);
   --btn-width: 120px;
 
   position: relative;
@@ -138,6 +138,7 @@ html {
 
   &:hover {
       color: white;
+      box-shadow: 0px 0 10px 1px #009c88;
   }
 
   &.outlined {
