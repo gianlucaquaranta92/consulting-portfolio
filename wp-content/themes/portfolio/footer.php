@@ -47,7 +47,7 @@ $contact_email = get_field('contact_mail', 'option');
                     <?php endif; ?>
                   
                   </div>
-                  <div class="flex flex-row gap-4 ">
+                  <div class="flex flex-row gap-8 ">
                     <a href="#" class="z-10 icon-linkedin text-3xl duration-300 hover:text-accent text-white"></a>
                     <a href="#" class="z-10 icon-github text-3xl duration-300 hover:text-accent text-white"></a>
                   </div>

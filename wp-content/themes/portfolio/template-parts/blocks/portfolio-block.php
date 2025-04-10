@@ -18,7 +18,9 @@ if (!empty($services) && is_array($services)) {
         $first = true; 
 ?>
     <section  class="single-projects flex flex-row items-center">
-        <div class="page-width">
+        <div class="page-width relative">
+        <div style="inset: -10% auto auto 37%; filter: blur(260px);" class="round-gradient"> </div>
+       
             <div class="w-full flex flex-row gap-8 items-center project-content">
                 <div class="grow basis-0 flex flex-col ">
                     <div class="flex gap-2">

@@ -143,8 +143,7 @@ html {
 
   &.outlined {
       background-color: transparent;
-      border: solid 2px var(--btn-color);
-      color: var(--btn-color);
+      border: solid 3px var(--btn-color);
 
       &:hover {
           
@@ -174,6 +173,10 @@ html {
 
 }
 
+
+.single-text-column {
+  background: linear-gradient(172deg, rgb(0 194 168 / 21%) 0%, rgb(34 34 34 / 24%) 100%);
+}
 
 
 
