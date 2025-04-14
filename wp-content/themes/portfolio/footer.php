@@ -9,8 +9,8 @@ $contact_email = get_field('contact_mail', 'option');
 <footer class="bg-black text-white p-16 group overflow-hidden">
 
     <div class="page-width relative">
-      <div style="inset: -85% auto auto 0%; background:#7ab0ff " class="round-gradient"> </div>
-      <div style="inset: 80% auto auto 84%; background:#7ab0ff" class="round-gradient"> </div>
+      <div style="inset: -85% auto auto 0%; background:#7ab0ff " class="round-gradient absolute"> </div>
+      <div style="inset: 80% auto auto 84%; background:#7ab0ff" class="round-gradient absolute"> </div>
         <div class="footer-columns flex gap-4 justify-between flex-row pb-8">
           <div class="w-full text-center">
             <div class="uppercase text-2xl">Need a developer?</div>

@@ -11,8 +11,10 @@ $hero_image = !empty(get_field('hero_image')) ? get_field('hero_image') : '';
 <section class="hero-section bg-black relative">
 
     <div class="page-width h-full relative">
-        <div class="round-gradient"> </div>
-        <div class="round-gradient two"> </div>
+    <div class="absolute [top:-59%] [left:-6%] w-80 h-80 rounded-full bg-[#a0fffb] blur-[150px]"></div>
+
+    <div class="absolute [top:75%] [left:75%] w-80 h-80 rounded-full bg-[#a0fffb] blur-[150px]"></div>
+
         <div class="flex flex-row items-center h-full">
             <div>
                 <div class="flex flex-col grow max-w-[90%] relative">

@@ -1,9 +1,18 @@
 <section style="padding-bottom: 0">
-    <div class="page-width">
-        <h2 ><?php echo esc_html(get_field('services_block_title')); ?></h2>
+    <div class="page-width relative">
+   
+        <h2 class="relative" ><?php echo esc_html(get_field('services_block_title')); ?></h2>
     </div>
 </section>
 
+<div class="relative ">
+<div class="absolute inset-0 z-0">
+    <div class="sticky top-[30%] h-screen pointer-events-none">
+      <div class=" left-[37%] w-80 h-80 rounded-full bg-[#a0fffb] blur-[150px] absolute"></div>
+      
+
+    </div>
+  </div>
 <?php 
 $services = get_field('services_repeater'); 
 
@@ -18,9 +27,7 @@ if (!empty($services) && is_array($services)) {
         $first = true; 
 ?>
     <section  class="single-projects flex flex-row items-center">
-        <div class="page-width relative">
-        <div style="inset: -10% auto auto 37%; filter: blur(260px);" class="round-gradient"> </div>
-       
+        <div class="page-width">
             <div class="w-full flex flex-row gap-8 items-center project-content">
                 <div class="grow basis-0 flex flex-col ">
                     <div class="flex gap-2">
@@ -56,7 +63,11 @@ if (!empty($services) && is_array($services)) {
             </div>
         </div>
     </section>
+    
 <?php 
     } 
 }  
 ?>
+
+
+</div>

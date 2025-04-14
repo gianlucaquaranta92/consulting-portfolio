@@ -7,8 +7,8 @@ $text_columns = !empty(get_field('columns_repeater')) ? get_field('columns_repea
 if ($text_columns): ?>
 <section>
     <div class="page-width relative">
-    <div style="inset: -10% auto auto 37%; filter: blur(260px);" class="round-gradient"> </div>
-        <div>
+     <div class="absolute [top:-10%] [left:37%] w-80 h-80 rounded-full bg-[#a0fffb] blur-[260px]"></div>
+    <div>
             <?php if ($text_columns_title): ?>
                 <h2 class="text-center relative"><?php echo esc_html($text_columns_title); ?></h2>
             <?php endif; ?>
